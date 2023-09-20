@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const Header = () => {
   return (
-    <header className="bg-slate-800">
+    <header className="bg-slate-800 h-12">
       <div className="flex justify-around">
         <motion.div
           initial={{ x: -100, opacity: 0, scale: 0 }}

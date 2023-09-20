@@ -10,6 +10,9 @@ module.exports = {
       colors: {
         ulaan: "#9900EE",
       },
+      screens: {
+        xxl: "1090px",
+      },
 
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
