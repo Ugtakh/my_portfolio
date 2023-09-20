@@ -9,7 +9,7 @@ const Contact = () => {
         <div className="bg-violet-400 flex-1 flex flex-col">
           <div className="flex-[0.2] sm:bg-red-600 md:bg-yellow-400">2.1</div>
           <div className="flex-[0.8] bg-orange-300">2.2</div>
-        </div
+        </div>
       </div>
     </Layout>
   );
