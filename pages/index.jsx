@@ -26,7 +26,7 @@ export default function Home() {
             <Text age={12} color={12}>
               <div>
                 <div>
-                  <span>Welcome</span>
+                  <span>Welcome Pinecone</span>
                 </div>
               </div>
             </Text>
